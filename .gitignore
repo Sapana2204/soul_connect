@@ -1,0 +1,72 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Android specific
+**/android/**/local.properties
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/gradle-wrapper.jar
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# Keystore files (VERY IMPORTANT)
+*.jks
+*.keystore
+key.properties
+
+# iOS specific
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# MacOS
+**/macos/Flutter/ephemeral/
+
+# Windows
+**/windows/flutter/ephemeral/
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Web
+**/web/.dart_tool/
+
+# Coverage
+coverage/
+
+# IntelliJ / Android Studio
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Generated plugin registrant
+lib/generated_plugin_registrant.dart
+
+# FVM Version Cache
+.fvm/

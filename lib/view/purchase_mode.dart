@@ -1,0 +1,4 @@
+enum PurchaseMode {
+  purchase,
+  purchaseReturn,
+}
